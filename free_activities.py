@@ -1,17 +1,17 @@
 def play_games():
-  print("lets play a game.")
+  print("Let's play a game")
 
 def go_walking():
-  print("let's go for a walk.")
+  print("Let's go for a walk")
 
 def search_for_festivals():
-  print("Let's look for a festival.")
+  print("Let's look for a festival")
 
 def bonfire():
-  print("Let's have a bonfire.")
+  print("Let's have a bonfire")
 
 def go_drive():
-  print("Let's go for a drive.")
+  print("Let's go for a drive")
 
 def ride_bike():
-  print("Let's ride a bike.")
+  print("Let's ride a bike")
